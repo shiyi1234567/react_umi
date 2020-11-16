@@ -1,2 +1,15 @@
-# react_umi
-umi 项目练手
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
